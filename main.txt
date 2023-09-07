@@ -1,1 +1,2 @@
-User1 created main.txt at 09:09.
+User1 created main.txt in main branch.
+User2 modified main.txt in feature1 branch.
